@@ -1,4 +1,4 @@
-﻿  #header{
+﻿#header{
     position: absolute;
     height: 15%;
     width: 100%;
@@ -11,15 +11,9 @@
     align-items: flex-end;
     font-size: 40px;
     padding-left: 20px;
-<<<<<<< HEAD
 }
 
 #container{
-=======
-  }
-
-  #container{
->>>>>>> 87a2cbe54e444c89d06a1b8fdd3ea9818e0dc87d
     position: absolute;
     top: 15%;
     left: 2.5vw;
@@ -28,15 +22,9 @@
     height: 85%;
     display: flex;
     flex-wrap: wrap;
-<<<<<<< HEAD
 }
 
 .textbod{
-=======
-  }
-  
-  .textbod{
->>>>>>> 87a2cbe54e444c89d06a1b8fdd3ea9818e0dc87d
     background-color: #4444AA;
     width: 72.5vw;
     height: 10.5vw;
@@ -49,15 +37,9 @@
     font-size: 25px;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-<<<<<<< HEAD
 }
 
 h1{
-=======
-  }
-  
-  h1{
->>>>>>> 87a2cbe54e444c89d06a1b8fdd3ea9818e0dc87d
     border-bottom: 2px solid white;
     display: block;
     width: 98%;
@@ -69,7 +51,6 @@ h1{
     font-size: 30px;
     font-weight: bold;
     font-family: Courier;
-<<<<<<< HEAD
 }
 
 img{
@@ -81,17 +62,3 @@ body{
     overflow: hidden;
     user-select: none;
 }
-
-=======
-  }
-
-  img{
-    width: 12.5vw;
-    height: 12.5vw;
-  }
-
-  body{
-    overflow: hidden;
-    user-select: none;
-  }
->>>>>>> 87a2cbe54e444c89d06a1b8fdd3ea9818e0dc87d
